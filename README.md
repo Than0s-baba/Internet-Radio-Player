@@ -1,9 +1,9 @@
 # Internet-Radio-Player made from ESP-32 
+<img width="883" height="883" alt="image" src="https://github.com/user-attachments/assets/9d467f83-987b-48ed-83cf-a65b5f1326a5" />
 
 ## Table of Contents
-- 
-- [Features](#features)
 - [Hardware](#hardware)
+- [Features](#features)
 - [Installation](#installation)
   
 ## Hardware
