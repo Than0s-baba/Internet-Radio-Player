@@ -1,2 +1,21 @@
-# Internet-Radio-Player
-A Radio Player that seamlessly streams audio from the internet in the form of radio, podcasts and songs.
+# Internet-Radio-Player made from ESP-32 
+
+## Table of Contents
+- 
+- [Features](#features)
+- [Hardware](#hardware)
+- [Installation](#installation)
+  
+## Hardware
+- ESP-32S
+- IR Reciever
+- IR Remove (standard remote)
+- I2S Amplifier (max98357a)
+- OLED Display (GME 12864-41)
+- Connecting Wires
+- Breadboard
+
+## Features 
+allows to play audio from the internet from india radio using Wi-Fi. Stream media on the internt example:- songs. option to swap between different songs and different radios. Change the level of volume playing during songs playback, pausing song and resuming with no loss of data. Easy to carry design in the shape of a small box. Live bars visual when songs are playing.
+
+## Installation
